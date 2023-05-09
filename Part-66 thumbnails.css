@@ -1,0 +1,13 @@
+.thumbox {
+    display: flex;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    flex-wrap: wrap;
+    width: 80vw
+}
+
+.thumbox > img {
+    padding: 10px;
+    width: 250px;
+}
